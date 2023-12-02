@@ -1,6 +1,6 @@
 import { getLines } from './src/utils';
-import { day1 } from './day1';
+import { day2 } from './day2';
 
 const lines = getLines('input.txt');
 
-day1(lines);
+day2(lines);
